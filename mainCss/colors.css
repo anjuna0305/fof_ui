@@ -1,0 +1,11 @@
+:root {
+    /* --projectGreen: #98C03C; */
+    /* --projectPurple: #7681BF; */
+    --projectGreen: #7FB432;
+    --projectPurple: #7681BF;
+
+    --greenHover: #6F9D2B;
+    --purpleHover: #6973AD;
+
+    --errorRed: #ac252f;
+}

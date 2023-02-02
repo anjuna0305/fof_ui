@@ -1,0 +1,50 @@
+body {
+    margin: 0px 100px;
+}
+
+.card-comment {
+    background: url(background1.png);
+    background-size: cover;
+    /* width: 375px; */
+    margin: 10px;
+    padding: 20px 35px;
+}
+
+.commentator {
+    width: 100px;
+    height: 100px;
+
+    border-radius: 100px;
+}
+
+.comment-time {
+    padding-top: 20px;
+}
+
+.comment-txt {
+    padding: 50px 0px 30px 0px;
+
+    width: 80%;
+    text-align: center;
+    color: #6f6f6f;
+}
+
+.input-reply {
+    height: 75px;
+    border: 1px solid var(--projectGreen);
+    border-radius: 10px;
+    width: 100%;
+
+}
+
+@media screen and (max-width: 992px) {
+    body {
+        margin: 0px 60px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    body {
+        margin: 0px 20px;
+    }
+}

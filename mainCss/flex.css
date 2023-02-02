@@ -1,0 +1,41 @@
+.row-flex {
+    display: flex;
+}
+
+.al-center {
+    align-items: center;
+}
+
+.jf-center {
+    justify-content: center;
+}
+
+.jf-btwn {
+    justify-content: space-between;
+}
+
+.txt-center {
+    text-align: center;
+}
+
+/* float */
+.float-left {
+    float: left;
+}
+
+.float-right {
+    float: right;
+}
+
+/* text positioning */
+.txt-al-right {
+    text-align: right;
+}
+
+.txt-al-left {
+    text-align: left;
+}
+
+.txt-al-center {
+    text-align: center;
+}

@@ -1,0 +1,155 @@
+/* -------------------  font-sizes  ------------------- */
+/* 
+    Thin        :   100
+    ExtraLight  :   200
+    Light       :   300
+    Regular     :   400
+    Medium      :   500
+    SemiBold    :   600
+    Bold        :   700
+    ExtraBold   :   800
+    Black       :   900
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+/* font weights */
+
+.w-thin {
+    font-weight: 100;
+}
+
+.w-extraLight {
+    font-weight: 200;
+}
+
+.w-light {
+    font-weight: 300;
+}
+
+.w-regular {
+    font-weight: 400;
+}
+
+.w-medium {
+    font-weight: 500;
+}
+
+.w-semibold {
+    font-weight: 600;
+}
+
+.w-bold {
+    font-weight: 700;
+}
+
+.w-extraBold {
+    font-weight: 800;
+}
+
+.w-black {
+    font-weight: 900;
+}
+
+
+
+/* font sizes */
+.txt-01 {
+    font-size: 0.1rem;
+}
+
+.txt-02 {
+    font-size: 0.2rem;
+}
+
+.txt-03 {
+    font-size: 0.3rem;
+}
+
+.txt-04 {
+    font-size: 0.4rem;
+}
+
+.txt-05 {
+    font-size: 0.5rem;
+}
+
+.txt-06 {
+    font-size: 0.6rem;
+}
+
+.txt-07 {
+    font-size: 0.7rem;
+}
+
+.txt-08 {
+    font-size: 0.8rem;
+}
+
+.txt-09 {
+    font-size: 0.9rem;
+}
+
+.txt-10 {
+    font-size: 1rem;
+}
+
+.txt-11 {
+    font-size: 1.1rem;
+}
+
+.txt-12 {
+    font-size: 1.2rem;
+}
+
+.txt-13 {
+    font-size: 1.3rem;
+}
+
+.txt-14 {
+    font-size: 1.4rem;
+}
+
+.txt-15 {
+    font-size: 1.5rem;
+}
+
+.txt-16 {
+    font-size: 1.6rem;
+}
+
+.txt-17 {
+    font-size: 1.7rem;
+}
+
+.txt-18 {
+    font-size: 1.8rem;
+}
+
+.txt-19 {
+    font-size: 1.9rem;
+}
+
+.txt-20 {
+    font-size: 2.0rem;
+}
+
+.txt-21 {
+    font-size: 2.1rem;
+}
+
+.txt-22 {
+    font-size: 2.2rem;
+}
+
+.txt-23 {
+    font-size: 2.3rem;
+}
+
+.txt-24 {
+    font-size: 2.4rem;
+}
+
+.txt-25 {
+    font-size: 2.5rem;
+}

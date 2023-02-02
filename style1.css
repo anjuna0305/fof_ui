@@ -1,0 +1,59 @@
+/* margins */
+@media screen and (max-width: 992px) {
+    body {
+        margin: 0px 80px;
+    }
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.addmore-txt {
+    font-size: 24px;
+}
+
+.photo_holder {
+    height: 0px;
+    padding-bottom: 100%;
+
+    border: 3px solid var(--projectPurple);
+    border-radius: 10px;
+
+    overflow: hidden;
+    background-position: center;
+    background-size: cover;
+}
+
+.addmore_link_holder {
+    padding: 20px;
+    border: 2px solid var(--projectPurple);
+    background-color: white;
+    border-radius: 10px;
+}
+
+.remove_button {
+    margin-top: 10px;
+    float: right;
+}
+
+.link_holder {
+    flex-direction: column;
+    align-items: center;
+}
+
+.detail_box {
+    padding: 1.5rem;
+    text-align: center;
+}
+
+.left-side {
+    width: 50%;
+    float: left;
+}
+
+.right-side {
+    width: 50%;
+    float: right;
+}
