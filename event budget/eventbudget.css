@@ -1,3 +1,38 @@
 body {
     margin: 0px 100px;
 }
+
+@media screen and (max-width: 992px) {
+    body {
+        margin: 0px 20px;
+    }
+}
+
+.package-card {
+    max-width: 225px;
+}
+
+.budget-card {
+    max-width: 900px;
+}
+
+.Recepietns-count {
+    width: 50px;
+    height: 25px;
+    border: 1px solid var(--projectPurple);
+    border-radius: 8px;
+}
+
+.package-price {
+    width: 70px;
+    height: 25px;
+    border: 1px solid var(--projectPurple);
+    border-radius: 8px;
+}
+
+.package-number {
+    width: 50px;
+    height: 25px;
+    border: 1px solid var(--projectPurple);
+    border-radius: 8px;
+}

@@ -1,5 +1,13 @@
+.flex {
+    display: flex;
+}
+
 .row-flex {
     display: flex;
+}
+
+.wrap {
+    flex-wrap: wrap;
 }
 
 .al-center {

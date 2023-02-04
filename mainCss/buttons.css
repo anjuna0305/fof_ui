@@ -28,6 +28,14 @@
     width: 100%;
 }
 
+.btn-xsm {
+    height: 30px;
+    border-radius: 4px;
+    font-weight: 400;
+    font-size: 1rem;
+    padding: 0px 10px;
+}
+
 .btn-sm {
     height: 36px;
     border-radius: 5px;

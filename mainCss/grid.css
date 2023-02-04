@@ -4,6 +4,13 @@
     gap: 10px;
 }
 
+.grid-9 {
+    display: grid;
+    grid-template-columns: repeat(9, 1fr);
+    gap: 10px;
+}
+
+
 .grid-10 {
     display: grid;
     grid-template-columns: repeat(10, 1fr);
@@ -72,6 +79,10 @@
 }
 
 /* small */
+.col-sm-0 {
+    grid-column: span 0;
+}
+
 .col-sm-1 {
     grid-column: span 1;
 }
@@ -474,6 +485,11 @@
     /* ------------------------------------------------ */
 
     /* small */
+    .col-sm-0 {
+        display: none;
+        grid-column: span 0;
+    }
+
     .col-sm-1 {
         grid-column: span 1;
     }

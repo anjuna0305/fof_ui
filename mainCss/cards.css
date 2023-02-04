@@ -21,3 +21,8 @@
     border: 1px solid rgba(0, 0, 0, 0.3);
     border-radius: 5px;
 }
+
+.card-back1 {
+    background-image: url(/background1.png);
+    background-size: contain;
+}
